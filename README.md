@@ -94,7 +94,7 @@ display(Audio('thx_ising_sound.wav'))  # In Colab
 ```
 
 ## Examples
-- **Small Problem**: N=3, triangle graph → Solves frustration, sounds like evolving tones.
+- **Small Problem**: N=3, triangle graph → Sounds like evolving tones.
 - **THX Mode**: N=30, random K, glissando → Epic build-up, low energy found audibly.
 - **Custom**: Set K for your graph; add biases via frequency offsets.
 

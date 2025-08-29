@@ -1,4 +1,4 @@
-# Ising Machine Simulator: Audio Annealing with Coupled Oscillators
+# Simulated Ising Music Machine: Audio Annealing with Coupled Oscillators
 
 Synthesize your own Ising sounds here... just run the script:) https://colab.research.google.com/drive/1xZ21S309-ecghKHOOkeCW06vhPB-BRMO?usp=sharing
 
